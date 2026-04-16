@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "PyAutoControl": {
+      "command": "d:/pyauto/.venv/Scripts/python.exe",
+      "args": [
+        "D:/pyauto/main.py"
+      ]
+    }
+  },
+  "preferences": {
+    "coworkScheduledTasksEnabled": false,
+    "ccdScheduledTasksEnabled": false,
+    "coworkWebSearchEnabled": true,
+    "floatingAtollActive": true
+  }
+}
